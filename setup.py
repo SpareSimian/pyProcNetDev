@@ -5,7 +5,7 @@ from distutils.core import setup
 
 setup(
     name='pyProcNetDev',
-    version='0.4.1',
+    version='0.0.1',
     url='https://github.com/SpareSimian/pyProcNetDev',
     download_url='https://github.com/SpareSimian/pyProcNetDev/archive/master.zip',
     author='SpareSimian',
