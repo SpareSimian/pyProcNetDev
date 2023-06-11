@@ -9,7 +9,7 @@ setup(
     url='https://github.com/SpareSimian/pyProcNetDev',
     download_url='https://github.com/SpareSimian/pyProcNetDev/archive/master.zip',
     author='SpareSimian',
-    author_email='SpareSimian+github@SewingWitch.com
+    author_email='SpareSimian+github@SewingWitch.com',
     license='Apache v2.0 License',
     packages=['pyProcNetDev'],
     description='A pythonic library to parse /proc/net/dev',
